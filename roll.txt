@@ -1,4 +1,5 @@
 Write your roll below
 One roll on each line
 19
-19-2
+11
+
